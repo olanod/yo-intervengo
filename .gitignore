@@ -1,9 +1,0 @@
-.idea/
-*.iml
-
-node_modules/
-vendor/
-build/
-dist/
-.tmp
-.publish
